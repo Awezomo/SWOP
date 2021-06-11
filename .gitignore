@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+.vs/
+.vscode/
+build/
+Build/
+Library/
+library/
+obj/
+Obj/
+ProjectSettings/
+temp/
+=======
+.vs/
+.vscode/
+build/
+Build/
+Library/
+library/
+obj/
+Obj/
+ProjectSettings/
+temp/
+>>>>>>> 5629f42 (background bug, tutorial completed)
+Temp

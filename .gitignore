@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+build/
+Build/
+Library/
+library/
+obj/
+Obj/
+ProjectSettings/
+temp/
+Temp
